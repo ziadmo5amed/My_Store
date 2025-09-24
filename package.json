@@ -1,8 +1,13 @@
 {
-  "name": "my-react-app",
+  "name": "my-store",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziadmo5med/My_Store.git"
+  },
+  "homepage": "https://ziadmo5med.github.io/My_Store",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
